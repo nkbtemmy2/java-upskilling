@@ -94,4 +94,4 @@ springdoc:
     enabled: true
     resolve-extensions-properties: true
   swagger-ui:
-    path: /api/v1/marketplace/docs
+    path: /api/v1/docs
