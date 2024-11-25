@@ -1,0 +1,35 @@
+### Create new product
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+  "name": "Laptops",
+  "description": "A high-performance laptop",
+  "price": 999.99
+}
+
+
+### List all product
+GET http://localhost:8080/api/products
+Accept: application/json
+
+### Retreive a product
+GET http://localhost:8080/api/products/1
+Accept: application/json
+
+### Update a product
+PUT http://localhost:8080/api/products/1
+Content-Type: application/json
+
+{
+  "name": "Gaminag Laptop",
+  "description": "A laptop awith a powerful GPU",
+  "price": 1299.99
+}
+
+
+### Delete a product
+DELETE http://localhost:8080/api/products/1
+
+Accept: application/json
+
