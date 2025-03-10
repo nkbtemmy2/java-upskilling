@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a13daae-a7b0-4adb-aa00-a802f899a6ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Exception Handling Implementations/ExceptionHandlingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Java Concurrency Implementations/Concurrency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental" beforeDir="false" afterPath="$PROJECT_DIR$/Java fondamental" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/Java fondamental.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java fondamental/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,34 +23,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pLJCuxKHyxFN7NKdK3HDqXi96o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Desktop/workspace/learning/GDP/java-upskilling&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
@@ -64,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732539304410</updated>
       <workItem from="1732539306279" duration="1892000" />
+      <workItem from="1737454148465" duration="295000" />
+      <workItem from="1741616563604" duration="1860000" />
     </task>
     <servers />
   </component>
