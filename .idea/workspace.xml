@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a13daae-a7b0-4adb-aa00-a802f899a6ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Advanced Java Features Implementations/Exercise_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Exception Handling Implementations/ExceptionHandlingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate level/Week 1/Java Concurrency Implementations/Concurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate level/Week 4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +27,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Desktop/workspace/learning/GDP/java-upskilling&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macbook/Desktop/workspace/learning/GDP/java-upskilling/intermediate level/Week 4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +61,7 @@
       <updated>1732539304410</updated>
       <workItem from="1732539306279" duration="1892000" />
       <workItem from="1737454148465" duration="295000" />
-      <workItem from="1741616563604" duration="1860000" />
+      <workItem from="1741616563604" duration="2262000" />
     </task>
     <servers />
   </component>
